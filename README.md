@@ -139,12 +139,11 @@ if __name__== "__main__":
  ```
 
 ## Example output
+sudo python3 enumHTTPSSubs.py -t obisec.com  
 ```
-sudo python3 enumHTTPSSubs.py -t obisec.com                                                                ─╯
 academy.obisec.com
 cbcp-course.obisec.com
 obisec.com
 www.obisec.com
 ```
-
 
